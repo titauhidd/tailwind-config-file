@@ -8,3 +8,10 @@ module.exports = {
     },
     plugins: [],
   }
+-------------------------------------------------------------------------------------------------
+
+  <!--Tailwind CDN-->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!--Font Awesome Kit-->
+  <script src="https://kit.fontawesome.com/fa47d0810a.js" crossorigin="anonymous"></script>
