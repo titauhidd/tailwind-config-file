@@ -15,3 +15,10 @@ module.exports = {
 
   <!--Font Awesome Kit-->
   <script src="https://kit.fontawesome.com/fa47d0810a.js" crossorigin="anonymous"></script>
+-----------------------------------------------------------------------------------------------
+<section class="h-screen bg-cover bg-center bg-no-repeat" 
+         style="background-image: url('/images/hero.jpg');">
+  <div class="flex items-center justify-center h-full">
+    <h1 class="text-white text-5xl font-bold">Welcome to My Website</h1>
+  </div>
+</section>
